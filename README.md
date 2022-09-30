@@ -4,9 +4,9 @@ Virtual Internship - Android Application Development Using Kotlin
 Name: BHARATH VISHNU C J <br>
 SBID:	SB20220243270
 
-Demo Link : https://drive.google.com/file/d/1BdfeNFd5TUoEBM2WGzIcFK_Ovrf1vHpw/view?usp=sharing
+Demo Link : https://youtu.be/9RkOKB980Ts
 
-<a href="https://drive.google.com/file/d/1BdfeNFd5TUoEBM2WGzIcFK_Ovrf1vHpw/view?usp=sharing"><h3 align="center">Video Demo of the app in action</h4></a>
+<a href="https://youtu.be/9RkOKB980Ts"><h3 align="center">Video Demo of the app in action</h4></a>
 
 Purpose of this App:
 
